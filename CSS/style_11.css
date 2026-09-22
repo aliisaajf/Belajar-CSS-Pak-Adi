@@ -1,0 +1,21 @@
+p {
+    background-color: rgb(208, 171, 241);
+}
+p {
+    background-color: greenyellow;
+    width:200px;
+    height:200px;
+}
+* {
+    padding:0px;
+    margin: 0px;
+}
+.p2 {
+    margin-left:20px;
+    margin-top:30px;
+    margin-bottom:30px;
+}
+* {
+    padding:0px;
+    margin:0px;
+}

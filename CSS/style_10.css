@@ -1,0 +1,10 @@
+.container{
+    width:100px;
+    height:100px;
+    background-color:aqua;
+}
+.kotak{
+    width:50px;
+    height:100px;
+    background-color: brown;
+}

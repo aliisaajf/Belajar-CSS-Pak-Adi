@@ -1,0 +1,82 @@
+* {
+margin:0px;
+padding:0px;
+font-family: arial, helvetica, sans-serif;
+}
+form {
+width: 300px;
+border: 1px solid rgb(206, 43, 184);
+margin: 40px auto;
+padding: 20px;
+border-radius: 10px;
+}
+input {
+    width:50%;
+}
+input[type="text"] {
+    width:35%;
+}
+input[type="email"],input[type="password"] {
+    display:block;
+    width:100%;
+}
+input [type="text"] {
+    width:49%;
+    padding:10px;
+    margin-top: 10px;
+    box-sizing: border-box;
+}
+input[type="email"],input[type="password"] {
+    display:block;
+    Margin-top:10px;
+    width:100%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+input {
+    border:none;
+    border-bottom:1px solid burlywood;
+}
+/* input, button {
+    border:none;
+    border-bottom: 1px solid rgb(235, 127, 217);
+} */
+button {
+    width:50%;
+    padding:10px;
+    margin-top:20px;
+    margin-left:25%;
+    border-radius:10px;
+}
+button:hover {
+    background-color:palevioletred;
+    width:50px;
+    height:50px;
+}
+button {
+    width:50%;
+    padding:10px;
+    margin-top:20px;
+    margin-left:25%;
+    border-radius:10px; 
+}
+input,button {
+    border:none;
+    border-bottom: 1px solid plum;
+}
+button {
+    width:50%;
+    padding:10px;
+    margin-top:20px;
+    margin-left:25%;
+    border-radius:10px; 
+}
+button:hover {
+    background-color: rgb(250, 62, 219);
+    color:white;
+    width: 50%;
+}
+h3 {
+    margin-bottom:30px;
+    color: rgb(199, 145, 159);
+}

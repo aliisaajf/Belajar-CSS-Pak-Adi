@@ -1,0 +1,13 @@
+.container {
+    width: 400px;
+    border: 3px solid black;
+    margin:auto;
+}
+.kotak_1, .kotak_2, .kotak_3{
+    width: 350px;
+    background-color: lawngreen;
+    margin:5px;
+    box-sizing:border-box;
+}
+
+
